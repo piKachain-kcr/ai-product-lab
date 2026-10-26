@@ -7,3 +7,4 @@ Experiments and projects built while transitioning toward AI Product / AI-native
 
 Learn by building, deploying, evaluating and iterating on real AI products.
 Focusing on major pillars. 
+next - Learning Git: fetch, pull, and remote synchronization.
